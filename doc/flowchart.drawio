@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2024-01-29T08:07:25.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zqRs5ukMcWs7bk8rBuXS" version="23.0.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="794" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="r7euHgKXfwE4bAFtJNck-2" value="시작" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="67" y="-664" width="206" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-3" value="종료" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="74" y="-243" width="202" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-4" value="변수 no를 만들고 1을 기억&lt;br&gt;합을 기억할 변수 s를 만들고 0을 기억" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="57" y="-555" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="173" y="-584" as="sourcePoint" />
+            <mxPoint x="173" y="-554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="173" y="-475" as="sourcePoint" />
+            <mxPoint x="173" y="-445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175.5" y="-273" as="sourcePoint" />
+            <mxPoint x="175.5" y="-243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-8" value="no가 10보다 크다" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="53" y="-445" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="173.5" y="-364" as="sourcePoint" />
+            <mxPoint x="173.5" y="-334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-10" value="변수&amp;nbsp; s의 합으로 출력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="58" y="-334" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="-405" as="sourcePoint" />
+            <mxPoint x="324" y="-405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-13" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="93" y="-370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-14" value="s에 no를 더해준다" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="323" y="-425" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="-424" as="sourcePoint" />
+            <mxPoint x="399" y="-444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-17" value="no에 1을 더해준다" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="323" y="-484" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323" y="-460" as="sourcePoint" />
+            <mxPoint x="173" y="-460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-19" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="274" y="-433" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r7euHgKXfwE4bAFtJNck-20" value="시작&lt;br&gt;&lt;br&gt;&amp;nbsp;no = 1&lt;br&gt;&lt;br&gt;s = 0&lt;br&gt;&lt;br&gt;no &amp;lt;= 10이라면&amp;nbsp;&lt;br&gt;s = s + no&lt;br&gt;no = no+1&lt;br&gt;&lt;br&gt;&lt;br&gt;no &amp;gt; 10 라면&lt;br&gt;s출력&lt;br&gt;&lt;br&gt;종료" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="-660" width="180" height="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
